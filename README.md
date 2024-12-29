@@ -12,7 +12,7 @@ Frontend Engineer / Technical Lead with a Computer Science degree with 12+ years
 
 ## :link: Let's stay in touch
 
-![Linkedin Badge](https://img.shields.io/badge/-Pavlo_Hordiienko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phordiienko/)
+[![Linkedin Badge](https://img.shields.io/badge/-Pavlo_Hordiienko-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/phordiienko/)
 
 ## :books: Check out my certificates
 
