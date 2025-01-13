@@ -8,7 +8,7 @@ Frontend Engineer / Technical Lead with a Computer Science degree with 12+ years
 
 - **Languages:** `JavaScript`, `TypeScript`
 - **Frameworks:** `Vue`, `Nuxt`, `React`, `Next.js`
-- **Miscellaneous:** `Tailwind`, `Figma`
+- **Miscellaneous:** `Tailwind`, `Figma`, `Algolia`, `Contentful`
 - **Hobbies:** Cycling, Running, Yoga
 
 ## :link: Let's stay in touch
