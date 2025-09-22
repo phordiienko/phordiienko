@@ -23,7 +23,7 @@ Frontend Engineer / Technical Lead with a Computer Science degree with 12+ years
 
 ### Other
 - [Contentful Certified Professional](https://www.credly.com/badges/ad9b434d-5cba-4ffc-b899-2299f01b12a9)
-- [commercetools Certified Composable Commerce Developer 2024](https://learn.commercetools.com/badges/badge.php?hash=0a15c1fa2699b7ce114efc70ca373fe7bab7731c)
+- [commercetools Certified Composable Commerce Developer 2025](https://learn.commercetools.com/badges/badge.php?hash=9e216d9834445227af64a9adf18f8e1ba221b241)
 - [Google Analytics Individual Qualification](https://skillshop.exceedlms.com/student/award/4vASeHKAQwMUd68CJvcMz5aN)
 
 
