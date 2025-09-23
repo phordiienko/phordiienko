@@ -6,10 +6,19 @@ Frontend Engineer / Technical Lead with a Computer Science degree with 12+ years
 
 ## :ninja: Skills
 
-- **Languages:** `JavaScript`, `TypeScript`
-- **Frameworks:** `Vue`, `Nuxt`, `React`, `Next.js`
-- **Miscellaneous:** `Tailwind`, `Figma`, `Algolia`, `Contentful`, `commercetools`, `Adobe Commerce`
-- **Hobbies:** Cycling, Running, Yoga
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#)
+[![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?logo=nuxt&logoColor=#00DC82)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
+
+
+**Miscellaneous:**
+`Tailwind`, `Figma`, `Algolia`, `Contentful`, `commercetools`, `Adobe Commerce`
+
+**Hobbies:**
+Cycling, Running, Yoga
 
 ## :link: Let's stay in touch
 
