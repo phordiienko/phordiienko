@@ -1,8 +1,9 @@
-# Hello there, I'm Pavlo Hordiienko 👋
+<h1 align="center">Hello there, I'm Pavlo Hordiienko 👋</h1>
+<p align="center">
+  Frontend Engineer / Technical Lead<br>
+  <b>13+ years in the industry | 10+ years eCommerce</b>
+</p>
 
-## :computer: A few words about me
-
-Frontend Engineer / Technical Lead with a Computer Science degree with 12+ years of experience in the industry including 9+ years in eCommerce, specializing in JavaScript frameworks like Vue, Nuxt, React and Next.js.
 
 ## :ninja: Skills
 
@@ -40,4 +41,3 @@ Cycling, Running, Yoga
 
 - [Adobe Certified Expert - Adobe Commerce Front End Developer](https://certification.adobe.com/credential/verify/b39f016b-f265-4c99-88ad-103e805aba13)
 - [Adobe Certified Professional - Adobe Commerce Developer](https://certification.adobe.com/credential/verify/e947a176-920a-4dc7-9fc0-aa53c3134b7c)
-
