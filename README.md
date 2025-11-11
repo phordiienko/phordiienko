@@ -43,4 +43,4 @@ Cycling, Running, Yoga
 
 ### Analytics
 
-- [Google Analytics Individual Qualification](https://skillshop.exceedlms.com/student/award/4vASeHKAQwMUd68CJvcMz5aN)
+- [Google Analytics Individual Qualification](https://skillshop.exceedlms.com/student/award/4vASeHKAQwMUd68CJvcMz5aN) - <small>Google, Apr 2024</small>
