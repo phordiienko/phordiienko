@@ -32,6 +32,7 @@ Cycling, Running, Yoga
 - [Certified Nuxt Master](https://api.masteringnuxt.com/certificates/9b00e0b2-14bf-40be-b434-c5927ddb19d6/download?signature=81259d832696ae82bd8c0051017e30698b3e5f7768b2443cff0b06004b1e8b91)
 
 ### Other
+- [Algolia Search Engineering Basics (ASEB)](https://academy.algolia.com/certificate/2x4pCgMDhg)
 - [Contentful Certified Professional](https://www.credly.com/badges/ad9b434d-5cba-4ffc-b899-2299f01b12a9)
 - [commercetools Certified Composable Commerce Developer 2025](https://learn.commercetools.com/badges/badge.php?hash=9e216d9834445227af64a9adf18f8e1ba221b241)
 - [Google Analytics Individual Qualification](https://skillshop.exceedlms.com/student/award/4vASeHKAQwMUd68CJvcMz5aN)
