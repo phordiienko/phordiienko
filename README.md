@@ -16,7 +16,7 @@
 
 
 **Miscellaneous:**
-`Tailwind`, `Figma`, `Algolia`, `Contentful`, `commercetools`, `Adobe Commerce`
+`Tailwind CSS`, `shadcn/ui`, `Figma`, `Algolia`, `Contentful`, `commercetools`, `Shopify`, `Adobe Commerce (Magento)`
 
 **Hobbies:**
 Cycling, Running, Yoga
