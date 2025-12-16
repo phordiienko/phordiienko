@@ -1,7 +1,7 @@
 <h1 align="center">Hello there, I'm Pavlo Hordiienko 👋</h1>
 <p align="center">
   Technical Lead | Senior Frontend Engineer<br>
-  <b>13+ years in the industry | 10+ years eCommerce</b>
+  <b>14+ years in the industry | 10+ years eCommerce</b>
 </p>
 
 
