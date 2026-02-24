@@ -37,6 +37,11 @@ Cycling, Running, Yoga
 - [Algolia Search Engineering Basics (ASEB)](https://academy.algolia.com/certificate/2x4pCgMDhg) - <small>Algolia, Oct 2025</small>
 - [Algolia Certified Developer (ACD)](https://academy.algolia.com/certificate/mVd9sJ_ceQ) - <small>Algolia, Dec 2025</small>
 
+### Shopify
+
+- [Shopify Development Fundamentals](https://www.credly.com/badges/f44b5a1a-e187-4dbc-991b-b715ee01ebf7/public_url) - <small>Shopify, Feb 2026</small>
+
+
 ### Adobe Commerce (Magento)
 
 - [Adobe Certified Professional - Adobe Commerce Developer](https://certification.adobe.com/credential/verify/e947a176-920a-4dc7-9fc0-aa53c3134b7c) - <small>Adobe, May 2019</small>
