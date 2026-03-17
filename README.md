@@ -39,7 +39,8 @@ Cycling, Running, Yoga
 
 ### Shopify
 
-- [Shopify Development Fundamentals](https://www.credly.com/badges/f44b5a1a-e187-4dbc-991b-b715ee01ebf7/public_url) - <small>Shopify, Feb 2026</small>
+- [Shopify Development Fundamentals](https://www.credly.com/badges/f44b5a1a-e187-4dbc-991b-b715ee01ebf7) - <small>Shopify, Feb 2026</small>
+- [Shopify Solution Planning Fundamentals](https://www.credly.com/badges/bcb2a83e-3afd-4506-8477-4a60995f496f) - <small>Shopify, Mar 2026</small>
 
 
 ### Adobe Commerce (Magento)
