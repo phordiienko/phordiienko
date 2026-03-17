@@ -7,19 +7,26 @@
 
 ## :ninja: Skills
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
-[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#)
-[![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?logo=nuxt&logoColor=#00DC82)](#)
-[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
-[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
-
+[![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=for-the-badge&logoColor=000)](#)
+[![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&style=for-the-badge&logoColor=fff)](#)
+[![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&style=for-the-badge&logoColor=fff)](#)
+[![Nuxt Badge](https://img.shields.io/badge/Nuxt-002E3B?logo=nuxt&style=for-the-badge&logoColor=#00DC82)](#)
+[![React Badge](https://img.shields.io/badge/React-%2320232a.svg?logo=react&style=for-the-badge&logoColor=%2361DAFB)](#)
+[![Next.js Badge](https://img.shields.io/badge/Next.js-black?logo=next.js&style=for-the-badge&logoColor=white)](#)
+![Jest Badge](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=for-the-badge)
+![Vite Badge](https://img.shields.io/badge/Vite-9135FF?logo=vite&logoColor=fff&style=for-the-badge)
 
 **Miscellaneous:**
-`Tailwind CSS`, `shadcn/ui`, `Figma`, `Algolia`, `Contentful`, `commercetools`, `Shopify`, `Adobe Commerce (Magento)`
+![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)
+![shadcn/ui Badge](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=for-the-badge)
+![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)
+![Algolia Badge](https://img.shields.io/badge/Algolia-003DFF?logo=algolia&logoColor=fff&style=for-the-badge)
+![Contentful Badge](https://img.shields.io/badge/Contentful-2478CC?logo=contentful&logoColor=fff&style=for-the-badge)
 
-**Hobbies:**
-Cycling, Running, Yoga
+**E-commerce:**
+- `commercetools`
+- `Shopify`
+- `Adobe Commerce (Magento)`
 
 ## :link: Let's stay in touch
 
