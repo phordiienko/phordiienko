@@ -43,7 +43,7 @@
 
 ### Headless & Composable Commerce
 - [commercetools Certified Composable Commerce Developer 2025](https://learn.commercetools.com/badges/badge.php?hash=9e216d9834445227af64a9adf18f8e1ba221b241) - <small>commercetools, Sep 2022</small>
-- [Contentful Certified Professional](https://www.credly.com/badges/ad9b434d-5cba-4ffc-b899-2299f01b12a9) - <small>Contentful, Sep 2022</small>
+- [Contentful Certified Professional](https://www.credly.com/badges/be884d47-cd1c-4a6f-9a2a-aaf09abb844f/public_url) - <small>Contentful, Sep 2022</small>
 - [Algolia Search Engineering Basics (ASEB)](https://academy.algolia.com/certificate/2x4pCgMDhg) - <small>Algolia, Oct 2025</small>
 - [Algolia Certified Developer (ACD)](https://academy.algolia.com/certificate/mVd9sJ_ceQ) - <small>Algolia, Dec 2025</small>
 
@@ -54,7 +54,7 @@
 - [Developing Apps for Shopify](https://www.credly.com/badges/8d5778d5-6702-441e-b3af-14dc22e3191f) - <small>Shopify, Mar 2026</small>
 
 
-### Adobe Commerce (Magento)
+### Adobe Commerce (Magento 2)
 
 - [Adobe Certified Professional - Adobe Commerce Developer](https://certification.adobe.com/credential/verify/e947a176-920a-4dc7-9fc0-aa53c3134b7c) - <small>Adobe, May 2019</small>
 - [Adobe Certified Expert - Adobe Commerce Front End Developer](https://certification.adobe.com/credential/verify/b39f016b-f265-4c99-88ad-103e805aba13) - <small>Adobe, Nov 2018</small>
