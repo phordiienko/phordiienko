@@ -42,7 +42,7 @@
 - [Certified Nuxt Master](https://api.masteringnuxt.com/certificates/9b00e0b2-14bf-40be-b434-c5927ddb19d6/download?signature=81259d832696ae82bd8c0051017e30698b3e5f7768b2443cff0b06004b1e8b91) - <small>Vue School, Oct 2023</small>
 
 ### Headless & Composable Commerce
-- [commercetools Certified Composable Commerce Developer 2025](https://learn.commercetools.com/badges/badge.php?hash=9e216d9834445227af64a9adf18f8e1ba221b241) - <small>commercetools, Sep 2022</small>
+- [commercetools Certified Composable Commerce Developer 2025](https://learn.commercetools.com/badges/badge.php?hash=bc148f857bed2db9032eb34828d15e6795b0974d) - <small>commercetools, Sep 2022</small>
 - [Contentful Certified Professional](https://www.credly.com/badges/be884d47-cd1c-4a6f-9a2a-aaf09abb844f/public_url) - <small>Contentful, Sep 2022</small>
 - [Algolia Search Engineering Basics (ASEB)](https://academy.algolia.com/certificate/2x4pCgMDhg) - <small>Algolia, Oct 2025</small>
 - [Algolia Certified Developer (ACD)](https://academy.algolia.com/certificate/mVd9sJ_ceQ) - <small>Algolia, Dec 2025</small>
