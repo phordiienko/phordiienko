@@ -7,12 +7,12 @@
 
 ## :ninja: Skills
 
-[![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=for-the-badge&logoColor=000)](#)
-[![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&style=for-the-badge&logoColor=fff)](#)
-[![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&style=for-the-badge&logoColor=fff)](#)
-[![Nuxt Badge](https://img.shields.io/badge/Nuxt-002E3B?logo=nuxt&style=for-the-badge&logoColor=#00DC82)](#)
-[![React Badge](https://img.shields.io/badge/React-%2320232a.svg?logo=react&style=for-the-badge&logoColor=%2361DAFB)](#)
-[![Next.js Badge](https://img.shields.io/badge/Next.js-black?logo=next.js&style=for-the-badge&logoColor=white)](#)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=for-the-badge&logoColor=000)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&style=for-the-badge&logoColor=fff)
+![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&style=for-the-badge&logoColor=fff)
+![Nuxt Badge](https://img.shields.io/badge/Nuxt-002E3B?logo=nuxt&style=for-the-badge&logoColor=#00DC82)
+![React Badge](https://img.shields.io/badge/React-%2320232a.svg?logo=react&style=for-the-badge&logoColor=%2361DAFB)
+![Next.js Badge](https://img.shields.io/badge/Next.js-black?logo=next.js&style=for-the-badge&logoColor=white)
 ![Jest Badge](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=for-the-badge)
 ![Vite Badge](https://img.shields.io/badge/Vite-9135FF?logo=vite&logoColor=fff&style=for-the-badge)
 
