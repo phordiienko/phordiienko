@@ -34,6 +34,7 @@
 ## :link: Let's stay in touch
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/phordiienko/)
+[![Website Badge](https://img.shields.io/badge/-phordiienko.dev-000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://phordiienko.dev/)
 
 ## :books: Check out my certificates
 
